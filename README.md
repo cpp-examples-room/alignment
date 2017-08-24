@@ -1,7 +1,7 @@
 # alignment
 
 ```bash
-cmake -H. -B_builds -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+cmake -H. -B_builds
 cmake --build _builds/
 ./_builds/alignment
 ```
