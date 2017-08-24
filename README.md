@@ -1,6 +1,6 @@
 # alignment
 
-## taks
+## task
 
 ```cpp
 struct A {
