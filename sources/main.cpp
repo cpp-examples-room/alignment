@@ -10,4 +10,5 @@ struct A {
 int main()
 {
   std::cout << sizeof( A ) << std::endl;
+  std::cout << alignof( A ) << std::endl;
 }
