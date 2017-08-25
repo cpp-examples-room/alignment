@@ -8,7 +8,7 @@ struct A {
   double y;
   short z;
   char w;
-}; // sizeof - ???
+}; // sizeof - ???, aligof - ???
 
 
 ```
